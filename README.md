@@ -27,4 +27,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cpp,go,rust,wasm,react,nodejs,pnpm,express,electron,figma,vite,vitest,postgres,prisma,docker,bash,vscode,webstorm,apple,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cpp,go,rust,wasm,react,bun,nodejs,pnpm,express,electron,figma,vite,vitest,postgres,prisma,docker,bash,vscode,webstorm,apple,linux&theme=dark)](https://skillicons.dev)
