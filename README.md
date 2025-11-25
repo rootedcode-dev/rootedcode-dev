@@ -2,7 +2,7 @@
 
 ### A passionate, project-driven full-stack developer.
 
-- 🔭 I'm currently working on **Holo, a privacy-focused collaboration tool**
+- 🔭 I'm currently working on **[Holo](https://github.com/rootedcode-dev/holo), a privacy-focused collaboration tool**
 
 - 🌱 I'm currently learning **Real-time communications via WebRTC & WebSockets**
 
