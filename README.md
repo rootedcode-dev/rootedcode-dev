@@ -1,6 +1,6 @@
-# Hi 👋, I'm rootedcode
+![Header](./github-header-banner.png)
 
-### A passionate, project-driven full-stack engineer.
+<h3 align="left">About me:</h3>
 
 - 🔭 I'm currently working on **[Holo](https://github.com/rootedcode-dev/holo), a privacy-focused collaboration tool**
 
