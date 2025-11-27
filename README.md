@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I'm currently working on **[Holo](https://github.com/rootedcode-dev/holo), a privacy-focused collaboration tool**
+- 🔭 I'm currently working on **[Holo](https://github.com/rootedcode-dev/holo), an open-source, local-first and privacy-focused chat application**
 
 - 🌱 I'm currently learning **Real-time communications via WebRTC & WebSockets**
 
@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **understanding system design concepts**
 
-- 💬 Ask me about **Buntime!**
+- 💬 Ask me about **Holo!**
 
 - 📫 How to reach me **rootedcode.dev@gmail.com**
 
