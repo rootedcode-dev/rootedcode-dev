@@ -4,26 +4,26 @@
 
 <!-- - 🔭 I'm currently working on **[](), ** -->
 
-- 🌱 I'm currently learning about **Real-time communications in a local-first architecture**
+<!-- - 🌱 I'm currently learning about **Real-time communications in a local-first architecture** -->
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **understanding system design concepts and architectural patterns**
+<!-- - 🤝 I'm looking for help with **understanding system design concepts and architectural patterns** -->
 
-- 💬 Ask me about **Holo!**
+<!-- - 💬 Ask me about **Holo!** -->
 
-- 📫 How to reach me **rootedcode.dev@gmail.com**
+<!-- - 📫 How to reach me **rootedcode.dev@gmail.com** -->
 
-- 👨‍💻 All of my projects are available at **[https://rootedcode.dev](https://rootedcode.dev)** (*Coming Soon!*)
+<!-- - 👨‍💻 All of my projects are available at **[https://rootedcode.dev](https://rootedcode.dev)** (*Coming Soon!*) -->
 
 <!-- - 📝 I regularly write articles on **[https://medium.com/@rootedcode.dev](https://medium.com/@rootedcode.dev)** -->
 
 <h3 align="left">Connect with me:</h3>
 
-[![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/rootedcode-dev)
+[![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/rootedcode)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/rootedcode)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/CDCaNJEPzf)
-<!-- [![Medium](https://skills-icons.vercel.app/api/icons?i=medium&theme=light)](https://medium.com/@rootedcode.dev) -->
+<!-- [![Medium](https://skills-icons.vercel.app/api/icons?i=medium&theme=light)](https://medium.com/@rootedcode) -->
 
 <h3 align="left">Languages and Tools:</h3>
 
